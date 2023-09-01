@@ -1,8 +1,8 @@
 {
     "name": "PROFESSOR-BOT",
     "description": "The Telegram Autofilter Bot",
-    "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
-    "keywords": ["Telegram", "auto-filter", "MrMKN"],
+    "logo": "https://graph.org/file/932f455a80aa9a26a7cb5.jpg",
+    "keywords": ["Telegram", "auto-filter", "Public-Movies"],
     "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
